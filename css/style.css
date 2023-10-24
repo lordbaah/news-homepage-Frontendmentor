@@ -235,7 +235,7 @@ footer .container a{
 
 
 /* mobile screen */
-@media screen and (max-width: 720px) {
+@media screen and (max-width: 767px) {
     .container{
         padding: 0 10px;
     }
